@@ -8,3 +8,4 @@ IPython==8.27.0
 aiohttp==3.10.5
 asyncio==3.4.3
 nest_asyncio==1.6.0
+streamlit==1.38.0
